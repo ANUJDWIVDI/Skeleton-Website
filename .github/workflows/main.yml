@@ -6,7 +6,7 @@
     # The GITHUB_TOKEN secret
     repoToken: # optional
     # Firebase service account JSON
-    firebaseServiceAccount: 
+    firebaseServiceAccount: firebase-adminsdk-20wfk@smart-staff-ai.iam.gserviceaccount.com
     # How long should a preview live? See the preview channels docs for options
     expires: # optional, default is 7d
     # The project to deploy to. If you leave this blank, make sure you check in a .firebaserc file
